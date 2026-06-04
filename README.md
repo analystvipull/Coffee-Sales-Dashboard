@@ -163,3 +163,10 @@ Seasonal and product-level insights enable targeted promotional campaigns and pe
 #### Strategic Decision Making
 
 The dashboard consolidates sales, product performance, and customer behavior into a single analytical platform, helping stakeholders make informed business decisions and improve overall profitability.
+
+---
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/analystvipull/Coffee-Sales-Dashboard/blob/main/Dashboard_Snapshot.png)
+
