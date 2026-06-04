@@ -7,13 +7,13 @@
 
 A dynamic and interactive Power BI dashboard designed to analyze coffee sales performance, customer purchasing behavior, product demand, revenue trends, and transaction patterns across different time periods.
 
----
+
 
 ## 2. Short Description / Purpose
 
 The Coffee Store Sales Analytics Dashboard is a visually engaging and analytical Power BI report developed to monitor coffee shop performance through sales, revenue, product popularity, and customer purchasing trends. The dashboard helps business owners and analysts identify top-selling beverages, peak sales periods, and revenue-driving products to support data-driven decision-making.
 
----
+
 
 ## 3. Tech Stack
 
@@ -31,7 +31,7 @@ The dashboard was built using the following tools and technologies:
 
 • 📁 **File Format** – `.pbix` for dashboard development and `.png` for dashboard previews.
 
----
+
 
 ## 4. Data Source
 
@@ -50,7 +50,7 @@ The dataset contains transaction-level coffee sales records, including:
 
 The dataset includes over 3,600 transactions and provides detailed insights into product performance, sales behavior, and revenue generation.
 
----
+
 
 ## 5. Features / Highlights
 
@@ -67,7 +67,7 @@ Key questions include:
 * Which payment methods are most commonly used?
 * How can management optimize inventory and staffing decisions?
 
----
+
 
 ### • Goal of the Dashboard
 
@@ -80,7 +80,7 @@ To deliver an interactive visual tool that:
 * Supports inventory planning and staffing decisions.
 * Enables data-driven business growth strategies.
 
----
+
 
 ### • Walkthrough of Key Visuals
 
@@ -136,7 +136,7 @@ Displays transaction distribution across payment methods, helping understand cus
 
 Highlights the best-performing coffee products based on sales volume and revenue generation.
 
----
+
 
 ### • Business Impact & Insights
 
@@ -164,7 +164,7 @@ Seasonal and product-level insights enable targeted promotional campaigns and pe
 
 The dashboard consolidates sales, product performance, and customer behavior into a single analytical platform, helping stakeholders make informed business decisions and improve overall profitability.
 
----
+
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
